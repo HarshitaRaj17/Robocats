@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Robocats/static/css/main.e8d0050e.css",
+    "main.js": "/Robocats/static/js/main.8bbb5169.js",
+    "index.html": "/Robocats/index.html",
+    "main.e8d0050e.css.map": "/Robocats/static/css/main.e8d0050e.css.map",
+    "main.8bbb5169.js.map": "/Robocats/static/js/main.8bbb5169.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8d0050e.css",
+    "static/js/main.8bbb5169.js"
+  ]
+}
